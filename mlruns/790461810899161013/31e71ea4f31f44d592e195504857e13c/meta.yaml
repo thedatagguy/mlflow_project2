@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Projects_2025/mlflow/ml_flow_project2/mlruns/790461810899161013/31e71ea4f31f44d592e195504857e13c/artifacts
+end_time: 1755615396940
+entry_point_name: ''
+experiment_id: '790461810899161013'
+lifecycle_stage: active
+run_id: 31e71ea4f31f44d592e195504857e13c
+run_name: big-robin-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755615389439
+status: 3
+tags: []
+user_id: manoj

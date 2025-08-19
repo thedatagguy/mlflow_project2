@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Projects_2025/mlflow/ml_flow_project2/mlruns/790461810899161013/7d5d855e61344e218a2c7849281eaa09/artifacts
+end_time: 1755615374315
+entry_point_name: ''
+experiment_id: '790461810899161013'
+lifecycle_stage: active
+run_id: 7d5d855e61344e218a2c7849281eaa09
+run_name: debonair-owl-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755615348543
+status: 3
+tags: []
+user_id: manoj

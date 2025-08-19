@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Projects_2025/mlflow/ml_flow_project2/mlruns/790461810899161013/1b128fb33f0f49a1bdc6385987299609/artifacts
+end_time: 1755615381870
+entry_point_name: ''
+experiment_id: '790461810899161013'
+lifecycle_stage: active
+run_id: 1b128fb33f0f49a1bdc6385987299609
+run_name: bemused-skunk-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755615374338
+status: 3
+tags: []
+user_id: manoj
